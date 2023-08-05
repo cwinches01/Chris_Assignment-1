@@ -1,0 +1,56 @@
+body {
+  margin: 0px;
+  font-family: Century Gothic;
+  color: white;
+  background-color: blue;
+
+}
+
+a:visited {
+  color: white;
+} 
+a:hover {
+  color: aquamarine;
+}
+
+.top-section {
+  color: whitesmoke;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 125px;
+  }
+
+.section-1 {
+  color: whitesmoke;
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+  padding-left: 35px;
+}
+
+.section-2 {
+  color: whitesmoke;
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+  padding-left: 200px;
+
+}
+  .section-3 {
+    color: whitesmoke;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    padding:0 10%;
+  
+
+  }
+input[type='button'] {
+padding: 10px 15px;
+font-weight: bold;
+border: 0px;
+border-radius: 40px;
+background-color: coral;
+color: white;
+}
